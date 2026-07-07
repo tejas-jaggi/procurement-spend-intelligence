@@ -154,7 +154,7 @@ Compared with a single denormalized table, this approach provides several advant
 The Procurement Spend Intelligence Platform was developed using a structured, phase-based methodology that mirrors the lifecycle of a real-world analytics project. Each phase was completed, validated, and reviewed before progressing to the next stage, ensuring that every analytical result was built on a reliable and well-tested foundation.
 
 | **Phase** | **Focus Area** | **Key Deliverables** | **Status** |
-|-------|-------------|--------|
+|-------|-------------|--------|-------|
 | Phase 1 | Project Planning | Defined the business scenario, procurement domain, project objectives, and analytics roadmap. |✅ Complete |
 | Phase 2 | Dimensional Data Modeling | Designed the star schema, identified fact and dimension tables, and established analytical relationships. |✅ Complete |
 | Phase 3 | Database Implementation | Built the warehouse schema with primary keys, foreign keys, constraints, and indexes using DuckDB. |✅ Complete |
