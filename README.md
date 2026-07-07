@@ -569,7 +569,7 @@ Developing this project reinforced several important principles of analytical en
 
 ---
 
-## ## Future Enhancements
+## Future Enhancements
 
 Possible future extensions include:
 
